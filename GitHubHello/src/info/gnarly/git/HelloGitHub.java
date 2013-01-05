@@ -4,7 +4,7 @@ package info.gnarly.git;
  * 
  * Here's some documentation
  * 
- * @author dpm
+ * @author dmaser
  * 
  */
 public class HelloGitHub {
